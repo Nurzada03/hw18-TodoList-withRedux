@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Projec-with-React/static/css/main.fb211cfa.css",
+    "main.js": "/Projec-with-React/static/js/main.a28a1dbe.js",
+    "index.html": "/Projec-with-React/index.html",
+    "main.fb211cfa.css.map": "/Projec-with-React/static/css/main.fb211cfa.css.map",
+    "main.a28a1dbe.js.map": "/Projec-with-React/static/js/main.a28a1dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb211cfa.css",
+    "static/js/main.a28a1dbe.js"
+  ]
+}
